@@ -44,6 +44,10 @@ document.getElementById("fancypants").onclick = function() {
     yeet(false);
 }
 
+document.getElementById("fancymcshamshy").onclick = function() {
+    window.location.href = "/sus";
+}
+
 document.getElementById("rickroll").onclick = function() {
     window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ", "_blank");
 }
