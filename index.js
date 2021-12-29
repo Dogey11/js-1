@@ -45,7 +45,7 @@ document.getElementById("fancypants").onclick = function() {
 }
 
 document.getElementById("fancymcshamshy").onclick = function() {
-    window.location.href = "js-1/sus/";
+    window.location.href = "/sus/";
 }
 
 document.getElementById("rickroll").onclick = function() {
